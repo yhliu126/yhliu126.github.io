@@ -1,4 +1,6 @@
 ## Welcome to GitHub Page
 
-You can use the [editor on GitHub](https://github.com/yhliu126/yhliu126.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is Yuhao Liu. I am a senior student at Yingcai Honors College of UESTC.
+
+I am studying algorithm and combination now.
 
