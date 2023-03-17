@@ -27,12 +27,12 @@ Education
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
   
-Skills
+<!-- Skills
 ======
 * Programming languages:
   * C
   * MATLAB
-* Other: LATEX
+* Other: LATEX -->
 
 Publications
 ======
