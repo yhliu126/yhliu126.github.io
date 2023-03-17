@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * 2019-2023 B.S. in Mathematics-Physics Fundamental Science, University of Electronic Science and Technology of China
-<!-- * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+<!-- * M.S. in Jekyll, GitHub University, 2014 -->
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 <!-- Work experience
 ======
