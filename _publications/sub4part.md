@@ -7,6 +7,7 @@ date: 2023-01-22
 venue: 'ACM-SIAM Symposium on Discrete Algorithms (SODA23)'
 # paperurl: 'http://yhliu126.github.io/files/sub4part.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
 ---
 <!-- This paper gives the first polynomial-time algorithm for the minimum 4-partition problem of submodular functions. 
 In this paper, we study the colorability of a special kind of planar graph. 
@@ -16,4 +17,4 @@ In this paper, we reduce the gap by proving that every planar graph without $4$-
 
 [Download paper here](http://yhliu126.github.io/files/sub4part.pdf)
 
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). 
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).  -->
