@@ -52,7 +52,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Honors and Award
+Honors and Awards
 ======
 * Outstanding Student Scholarship in Yingcai Honors College
 * Huawei Student Scholarship
