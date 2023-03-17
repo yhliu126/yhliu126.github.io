@@ -2,7 +2,7 @@
 title: "The (3,3)-colorability of planar graphs without 4-cycles and 5-cycles"
 collection: publications
 permalink: /publication/DM
-excerpt: 'This paper studies the improper coloring of planar graph without 4-cycles and 5-cycles and reduces the gap of 2-coloring. The problem is a variant of famous Steinberg’s conjecture.'
+excerpt: 'Co-authers: Mingyu Xiao'
 date: 2023-04-01
 venue: 'Discrete Mathematics, volume 346, issue 4'
 paperurl: 'http://yhliu126.github.io/files/DM.pdf'
