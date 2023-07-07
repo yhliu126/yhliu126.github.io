@@ -56,3 +56,5 @@ Honors and Awards
 ======
 * Outstanding Student Scholarship in Yingcai Honors College
 * Huawei Student Scholarship
+* Outstanding Graduates of School of Mathematical Sciences
+* Honor Reasearch in Yingcai Honors College
