@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* 2019-2023 B.S. in Mathematics-Physics Fundamental Science, University of Electronic Science and Technology of China
+* 2019-2023: B.S. in Mathematics-Physics Fundamental Science, University of Electronic Science and Technology of China
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-<!-- Work experience
+Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
+* Aug.2023-now: Research Assistant
+  * University of Electronic Science and Technology of China
+  * Supervisor: [Chao Xu](https://chaoxuprime.com/)
   
 <!-- Skills
 ======
