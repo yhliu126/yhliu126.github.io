@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* 2019-2023: B.S. in Mathematics-Physics Fundamental Science, University of Electronic Science and Technology of China
+* 2019-2023: B.S. in Mathematics-Physics Fundamental Science, UESTC.
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
 * Aug.2023-now: Research Assistant
-  * University of Electronic Science and Technology of China
-  * Supervisor: [Chao Xu](https://chaoxuprime.com/)
+  * UESTC. School of Computer Science and Engineering
+  * Supervisor: Chao Xu
   
 <!-- Skills
 ======
