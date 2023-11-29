@@ -40,15 +40,12 @@ Publications
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-<!-- Teaching
+ Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+* Fall 2023: Algorithms for Optimization, UESTC, Teaching Assistant
+* Fall 2023: Frontiers of Cutting-Edge Algorithm, UESTC, Teaching Assistant
   
 Honors and Awards
 ======
-* Outstanding Student Scholarship in Yingcai Honors College
-* Huawei Student Scholarship
-* Outstanding Graduates in School of Mathematical Sciences
-* Honor Reasearch in Yingcai Honors College
+* Outstanding Undergraduate Thesis
+* Outstanding Student Scholarship
