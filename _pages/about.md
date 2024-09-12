@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant supervised by Prof. Chao Xu at the [University of Electronic Science and Technology of China(UESTC)](https://en.uestc.edu.cn/) in the [Algorithm and Logic Group](https://tcsuestc.com/). \\
+I am a first year PhD student at the University of Wisconsin-Madison. I have worked as a research assistant supervised by Prof. Chao Xu at the [University of Electronic Science and Technology of China(UESTC)](https://en.uestc.edu.cn/) in the [Algorithm and Logic Group](https://tcsuestc.com/). \\
 I completed my bachelor's degree in Mathematics-Physics Fundamental Science at [Yingcai Honors College](https://www.yingcai.uestc.edu.cn/index.htm) (Elite Program). 
 It was my great honor to be advised by [Prof. Mingyu Xiao](https://sites.google.com/site/myxiao/) and [Prof. Chao Xu](https://chaoxuprime.com/) during my undergraduate time. \\
 My research interests are analysis and design of algorithms, combinatorial optimization and graph theory.
