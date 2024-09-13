@@ -43,6 +43,7 @@ Work experience
   
  Teaching
 ======
+* Fall 2024: CS 300 Programing II, UW-Madison, Teaching Assistant
 * Fall 2023: Algorithms for Optimization, UESTC, Teaching Assistant
 * Fall 2023: Frontiers of Cutting-Edge Algorithm, UESTC, Teaching Assistant
   
