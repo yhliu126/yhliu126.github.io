@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in Computer Science at the University of Wisconsin-Madison./
+I am a first year PhD student in Computer Science at the University of Wisconsin-Madison.
 
-
-I completed a BSc in Mathematics-Physics Fundamental Science at the University of Electronic Science and Technology of China where I was fortunate to work with [Mingyu Xiao](https://sites.google.com/site/myxiao/) and [Chao Xu](https://chaoxuprime.com/)./
-
+I completed a BSc in Mathematics-Physics Fundamental Science at the University of Electronic Science and Technology of China where I was fortunate to work with [Mingyu Xiao](https://sites.google.com/site/myxiao/) and [Chao Xu](https://chaoxuprime.com/).
 
 My research interests are analysis and design of algorithms, combinatorial optimization and graph theory.
 
