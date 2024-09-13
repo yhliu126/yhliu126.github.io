@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at the University of Wisconsin-Madison. 
-I completed my bachelor's degree in Mathematics-Physics Fundamental Science at the [University of Electronic Science and Technology of China(UESTC)](https://en.uestc.edu.cn/). 
-It was my great honor to be advised by [Mingyu Xiao](https://sites.google.com/site/myxiao/) and [Chao Xu](https://chaoxuprime.com/) during my undergraduate time. 
+I am a first year PhD student at the University of Wisconsin-Madison.\
+I completed my bachelor's degree in Mathematics-Physics Fundamental Science at the University of Electronic Science and Technology of China. 
+It was my great honor to be advised by [Mingyu Xiao](https://sites.google.com/site/myxiao/) and [Chao Xu](https://chaoxuprime.com/) during my undergraduate time.\
 My research interests are analysis and design of algorithms, combinatorial optimization and graph theory.
 
 
