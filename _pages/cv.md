@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * 2024-present: PhD Student in Computer Science, UW-Madison
-* 2019-2023: B.S. in Mathematics-Physics Fundamental Science, UESTC.
+* 2019-2023: BSc in Mathematics-Physics Fundamental Science, UESTC.
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
